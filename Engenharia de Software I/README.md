@@ -5,3 +5,7 @@ Opinião: Acredito que a Engenharia de Software é bem mais focada em resolver o
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming  is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 Opinião: Aqui mostra exemplos de como a Engenharia de Software se disntancia da Programação, mesmo que andem juntos, não são a mesma coisa.
+
+<h2>Diagrama UML</h2>
+ <img src="https://github.com/Caboia/Bertoti/assets/111662298/245838fa-2d14-4bcf-bba5-8d631c5e1cd3" width="1000" />
+
