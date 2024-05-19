@@ -1,7 +1,9 @@
+package sistemadiretorios;
+
 import java.util.ArrayList;
 import java.util.List;
 
-class Pasta implements Component {
+public class Pasta implements Component {
   private String nome;
   private List<Component> componentes;
 

@@ -1,3 +1,6 @@
+import sistemadiretorios.Arquivo;
+import sistemadiretorios.Pasta;
+
 public class Main {
   public static void main(String[] args) {
 
