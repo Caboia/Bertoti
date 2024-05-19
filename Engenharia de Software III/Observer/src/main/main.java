@@ -3,9 +3,9 @@ public class Main {
 
       AplicativoMensagens aplicativo = new AplicativoMensagens();
 
-      Usuario usuario1 = new Usuario("Usuario1");
-      Usuario usuario2 = new Usuario("Usuario2");
-      Usuario usuario3 = new Usuario("Usuario3");
+      Usuarios usuario1 = new Usuarios("Usuario1");
+      Usuarios usuario2 = new Usuarios("Usuario2");
+      Usuarios usuario3 = new Usuarios("Usuario3");
 
       aplicativo.attach(usuario1);
       aplicativo.attach(usuario2);
