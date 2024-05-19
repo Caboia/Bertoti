@@ -1,6 +1,6 @@
 Strategy
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/28360505-bfc1-493e-b54f-7d747027d42f)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/015d7894-058b-4528-8f1b-c5c5de8d834c)
 
 Observer
 
@@ -8,7 +8,7 @@ Observer
 
 Composite
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/a5277994-2b20-49e8-9803-17000508b6db)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/fed9b4c9-09ae-4466-bf45-513433d0a834)
 
 Singleton
 
@@ -20,5 +20,6 @@ Facade
 
 MVC
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/c85c5b0c-b9a1-4a1a-8c15-d08d6aa51c9b)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/b3d6e33d-46e4-453b-8055-af28bb787274)
+
 
