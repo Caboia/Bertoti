@@ -1,8 +1,8 @@
 package transporte;
 
-public class TransporteOnibus implements TransporteStrategy {
+public class TransporteTrem implements TransporteStrategy {
     @Override
     public TempoViagem calcularTempoViagem(String origem, String destino) {
-        return new TempoViagem(180);
+        return new TempoViagem(120); 
     }
 }

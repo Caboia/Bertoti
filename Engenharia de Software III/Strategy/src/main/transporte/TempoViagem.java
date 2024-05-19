@@ -1,19 +1,18 @@
 package transporte;
 
 public class TempoViagem {
-    private int tempo;
-    private String unidadeTempo;
+    private int minutos;
 
-    public TempoViagem(int tempo, String unidadeTempo) {
-        this.tempo = tempo;
-        this.unidadeTempo = unidadeTempo;
+    public TempoViagem(int minutos) {
+        this.minutos = minutos;
     }
 
-    public int getTempo() {
-        return tempo;
+    public int getMinutos() {
+        return minutos;
     }
 
-    public String getUnidadeTempo() {
-        return unidadeTempo;
+    @Override
+    public String toString() {
+        return "Tempo de viagem: " + minutos + " minutos";
     }
 }
