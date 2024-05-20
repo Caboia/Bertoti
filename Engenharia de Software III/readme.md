@@ -1,11 +1,11 @@
 Strategy
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/b0ad6e28-0fa5-4e12-b5af-e24f7bd1d159)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/8ff1762f-558e-4399-a0c9-39368bafdf45)
 
 
 Observer
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/ae2b5bad-5f46-4d66-af3e-b390bcc45c5f)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/a7f6c834-8b36-4980-894b-1e21328d7be2)
 
 
 Composite
