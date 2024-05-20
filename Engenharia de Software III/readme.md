@@ -1,18 +1,22 @@
 Strategy
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/015d7894-058b-4528-8f1b-c5c5de8d834c)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/b0ad6e28-0fa5-4e12-b5af-e24f7bd1d159)
+
 
 Observer
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/774b2526-52a8-4050-8b0d-21e0dc464714)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/ae2b5bad-5f46-4d66-af3e-b390bcc45c5f)
+
 
 Composite
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/fed9b4c9-09ae-4466-bf45-513433d0a834)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/1e926562-41bb-49fe-af02-69b7f34466d1)
+
 
 Singleton
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/6160f4f6-1921-4e61-a3e6-d507a18df2d7)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/5383a38e-2e59-4030-bb44-b5354b1f8b3c)
+
 
 Facade 
 
@@ -20,6 +24,7 @@ Facade
 
 MVC
 
-![image](https://github.com/Caboia/Bertoti/assets/111662298/b3d6e33d-46e4-453b-8055-af28bb787274)
+![image](https://github.com/Caboia/Bertoti/assets/111662298/4f942ab0-6eb6-4f5c-bc03-0afdd2fb9238)
+
 
 
